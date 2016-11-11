@@ -1,3 +1,3 @@
 # hello-world
 
-Hello, I'm just practicing because I have absolutely no idea on how to program!
+This is the second time I am testing this portion of the lesson.
